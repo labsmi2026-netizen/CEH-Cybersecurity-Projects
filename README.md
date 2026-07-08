@@ -1,9 +1,8 @@
 # CEH Cybersecurity Final Projects
 
-**Student:** Anwar
-**Program:** Certified Ethical Hacker (CEH) — Practical Training
-**Environment:** Kali Linux + Windows 10 (VMware Workstation) · Cisco Packet Tracer
-
+- **Student:** Anwar
+- **Program:** Certified Ethical Hacker (CEH) — Practical Training
+- **Environment:** Kali Linux + Windows 10 (VMware Workstation) · Cisco Packet Tracer
 ---
 
 ## Overview
