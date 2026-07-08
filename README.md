@@ -2,7 +2,7 @@
 
 **Student:** Anwar  
 **Program:** Certified Ethical Hacker (CEH) Practical Training  
-**Deadline:** July 15, 2026  
+**Date:**  2026  
 **Environment:** Kali Linux + Windows 10 (VMware Workstation)
 
 ---
