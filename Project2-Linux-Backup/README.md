@@ -25,3 +25,19 @@ sha256sum -c checksum_<timestamp>.sha256
 ```
 
 To schedule it, add a cron entry (example — daily at 2 AM):
+0 2 * * * /home/kalibaba/backup_project/backup.sh
+## Environment
+
+Kali Linux, VMware Workstation, isolated lab.
+
+## Files
+
+- `backup.sh` — the backup automation script
+- `Project2_Backup_Report.pdf` — full technical report
+
+## Stack
+
+Bash · cron · `tar`, `sha256sum`
+
+---
+*Performed in an authorized lab environment for educational purposes.*
